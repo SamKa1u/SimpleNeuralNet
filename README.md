@@ -5,7 +5,7 @@ A Multi-Layer perceptron from scratch
 <div>
   <div>
     <p>
-      Implements a deep network using just the Numpy library.
+      Implements a deep network capable of classifying handwritten digits using just the Numpy library.
     </p>
   </div>
   <div>
