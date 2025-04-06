@@ -1,5 +1,5 @@
 <h1>
-A Multi-layer perceptron from scratch  
+A Multi-Layer perceptron from scratch  
 </h1>
 
 <div>
