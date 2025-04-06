@@ -1,4 +1,16 @@
-A Deep Network from scratch leveraging just the Numpy library
+<h1>
+A Multi-layer perceptron from scratch  
+</h1>
 
-Special thanks to :
-Samson Zhang
+<div>
+  <div>
+    <p>
+      Implements a deep network using just the Numpy library.
+    </p>
+  </div>
+  <div>
+    <p>
+      Special thanks to : Samson Zhang      
+    </p>
+  </div>
+</div>
