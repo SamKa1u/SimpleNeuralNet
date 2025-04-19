@@ -1,5 +1,5 @@
 <h1>
-NdLinear Multi-Layer Perceptron from scratch  
+NdLinear Multi-Layer Perceptron
 </h1>
 
 <div>
