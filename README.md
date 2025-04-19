@@ -1,11 +1,10 @@
 <h1>
-A Multi-Layer Perceptron from scratch  
+NdLinear Multi-Layer Perceptron from scratch  
 </h1>
 
 <div>
   <div>
     <p>
-      Implements a deep network capable of classifying handwritten digits using just the Numpy library.
     </p>
   </div>
   <div>
